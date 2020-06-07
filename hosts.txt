@@ -1,6 +1,7 @@
 127.0.0.1 www.trilokiainc.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 appcloner.appspot.com
+127.0.0.1 intldlgs.qq.com
 127.0.0.1 tcqq.com
 127.0.0.1 tc.qq.com
 127.0.0.1 x2tcqq.com
